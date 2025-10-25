@@ -72,7 +72,6 @@ class Program
 
 
                         if (count == 0)
-
                         {
 
                             // Odkryj sąsiadujące puste pola.
@@ -127,9 +126,7 @@ class Program
 
         char[,] board = new char[height, width];
 
-        Random random = /*??*/
-
-
+        Random random = new Random();
 
         // Wypełnij planszę bombami.
 
