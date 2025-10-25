@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Saper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8ae6fca13d3910df0bdf92419030c0de85129e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+309e781c9aeecd0d17f2ad4ad9dc4f4a6c41148d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Saper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Saper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
